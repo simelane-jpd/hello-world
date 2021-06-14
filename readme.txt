@@ -1,2 +1,1 @@
-hi
-Are you ready
+"Hello!"
